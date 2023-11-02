@@ -1,4 +1,4 @@
-# Hello-World
-My first github repository <br/>
-Ritesh <br/>
-11/1/2023
+# cse360_helloworld
+This repository is to serve as CSE360 GitHub tutorial.
+
+This is a change reflecting a commit done by Sahil.
